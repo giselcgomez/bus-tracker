@@ -1,4 +1,4 @@
-#Real Time Bus Tracker
+## REAL TIME BUS TRACKER
 
 This project demonstrates the use of asynchronous programming, DOM manipulation, and use recursive functions.
 
