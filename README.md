@@ -1,10 +1,10 @@
-## Real Time Bus Tracker (Google Maps API)
+## Real Time Bus Tracker (Google Maps API - refreshes every 15 seconds)
 
 This project demonstrates the use of asynchronous programming, DOM manipulation, and use recursive functions.
 
 **Important highlights:**
 
--index.html - Calls a Google Maps API and MBTA V3 API Bus Route 1
+- index.html - Calls a Google Maps API and MBTA V3 API Bus Route 1, it refreshes the routes every 15 seconds.
 
 **How to Use**
 
